@@ -1,3 +1,5 @@
+- Project idea: https://roadmap.sh/projects/caching-server
+
 - Install Docker if you haven't.
 
 - Build the Docker image: `docker build -t myredis .`
